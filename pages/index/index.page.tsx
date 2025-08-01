@@ -74,7 +74,7 @@ export default function Index({ transitionDirection }: { transitionDirection: nu
         }}>
         <video
           ref={videoRef}
-          src="/mihayou.mp4"
+          src="/mihayou1.mp4"
           className="block w-full h-full object-cover"
           autoPlay
           muted
